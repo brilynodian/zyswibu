@@ -1,0 +1,33 @@
+Tingal pakai aja, kalau mau ubah
+nama, nomor owner di file ./src/setting.json
+kalau ubah di file wibu.js hati-hati nanti error
+cara run di termux
+
+$pkg update && pkg upgrade
+$pkg install nodejs
+$termux-setup-storage
+$(letak file bot ini)
+$ls (cek apakah benarr ini filenya)
+$npm start
+
+silahkan kalian scan qr code yang muncul
+scan aja jangan ngambil session lain
+
+
+kalau ada yang error atau ingin request fitur dan kalian 
+tidak bisa menangani kalian bisa chat aku
+nomorku https://wa.me/6281335910842
+
+
+
+
+
+
+
+
+
+
+
+
+
+tertandai WIBU TEAM (bagi yang ngejual sc aku doain error)
